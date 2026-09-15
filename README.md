@@ -1,4 +1,4 @@
-# 🔎 Nmap Network Reconnaissance Lab
+# 🔎 Zenmap Network Reconnaissance Lab
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
 ![Nmap](https://img.shields.io/badge/Tool-Nmap-red)
