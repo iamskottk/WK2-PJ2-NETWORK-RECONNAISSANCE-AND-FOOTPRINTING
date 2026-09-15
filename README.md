@@ -197,7 +197,7 @@ whatweb https://portswigger.net
 
 **Evidence:** Web technologies identified by WhatWeb
 
-![WhatWeb Screenshot](whatweb.png)
+![WhatWeb Screenshot](IMG_6644.png)
 
 ---
 
