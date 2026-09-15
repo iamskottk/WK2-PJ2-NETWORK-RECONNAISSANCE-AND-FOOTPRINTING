@@ -155,7 +155,7 @@ wafw00f https://portswigger.net
 
 **Evidence:** Web Application Firewall detection results
 
-![WAFW00F Screenshot](wafw00f.png)
+![WAFW00F Screenshot](IMG_6640.png)
 
 ---
 
