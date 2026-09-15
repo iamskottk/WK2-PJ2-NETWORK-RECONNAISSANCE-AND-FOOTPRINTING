@@ -95,7 +95,7 @@ Zenmap’s **Topology** feature was used to visualize the discovered network env
 
 **📸 Evidence — Zenmap Network Topology**
 
-![Zenmap Topology](screenshots/zenmap-topology.png)
+![Zenmap Topology](topologynetwork.PNG)
 
 ## ⚠️ 5. Risk Analysis / Impact
 
