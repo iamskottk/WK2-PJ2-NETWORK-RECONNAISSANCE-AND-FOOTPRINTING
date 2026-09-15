@@ -129,50 +129,91 @@ This practical strengthened my understanding of **host discovery, network mappin
 
 ## 8. Evidence Collected
 
-### E01 — Network Configuration
+## 🔎 Evidence — Web Reconnaissance
 
-**Evidence:** `network-config.png`
+### E01 — HTTP Header Analysis
 
-> **Screenshot:**
-> *[Insert Network Configuration screenshot here]*
+**Command:**
 
----
+```bash
+curl -I https://portswigger.net
+```
 
-### E02 — Zenmap Scan Results
+**Evidence:** HTTP response headers
 
-**Evidence:** `zenmap-scan.png`
-
-> **Screenshot:**
-> *[Insert Zenmap Scan screenshot here]*
+![curl -I Screenshot](curl-headers.png)
 
 ---
 
-### E03 — Discovered Hosts
+### E02 — WAF Detection
 
-**Evidence:** `discovered-hosts.png`
+**Command:**
 
-> **Screenshot:**
-> *[Insert Discovered Hosts screenshot here]*
+```bash
+wafw00f https://portswigger.net
+```
 
----
+**Evidence:** Web Application Firewall detection results
 
-### E04 — IP & MAC Address Discovery
-
-**Evidence:** `ip-mac-addresses.png`
-
-> **Screenshot:**
-> *[Insert IP & MAC screenshot here]*
+![WAFW00F Screenshot](wafw00f.png)
 
 ---
 
-### E05 — Network Topology
+### E03 — DNS Enumeration
 
-**Evidence:** `zenmap-topology.png`
+**Command:**
 
-> **Screenshot:**
-> *[Insert Network Topology screenshot here]*
+```bash
+dnsrecon -d portswigger.net
+```
 
+**Evidence:** DNS records and discovered information
 
+![DNSRecon Screenshot](dnsrecon.png)
+
+---
+
+### E04 — DNS Lookup
+
+**Command:**
+
+```bash
+nslookup portswigger.net
+```
+
+**Evidence:** DNS resolution results
+
+![NSLookup Screenshot](nslookup.png)
+
+---
+
+### E05 — Technology Detection
+
+**Command:**
+
+```bash
+whatweb https://portswigger.net
+```
+
+**Evidence:** Web technologies identified by WhatWeb
+
+![WhatWeb Screenshot](whatweb.png)
+
+---
+
+### E06 — WHOIS Information
+
+**Command:**
+
+```bash
+whois portswigger.net
+```
+
+**Evidence:** Domain registration and WHOIS information
+
+![WHOIS Screenshot](whois.png)
+
+---
 
 ## 📊 Project Summary
 
