@@ -78,7 +78,7 @@ Zenmap Ping Scan identified **9 active hosts** across **256 IP addresses**.
 
 **📸 Evidence — Zenmap Scan**
 
-![Zenmap Scan](evidence/zenmap-scan.png)
+![Zenmap Scan](zenmap.png)
 
 
 ### 4.3 IP and MAC Address Discovery
