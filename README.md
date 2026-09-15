@@ -141,7 +141,7 @@ curl -I https://portswigger.net
 
 **Evidence:** HTTP response headers
 
-![curl -I Screenshot](curl-headers.png)
+![curl -I Screenshot](IMG_6645.png)
 
 ---
 
