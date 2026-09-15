@@ -183,7 +183,7 @@ nslookup portswigger.net
 
 **Evidence:** DNS resolution results
 
-![NSLookup Screenshot](nslookup.png)
+![NSLookup Screenshot](IMG_6643.png)
 
 ---
 
