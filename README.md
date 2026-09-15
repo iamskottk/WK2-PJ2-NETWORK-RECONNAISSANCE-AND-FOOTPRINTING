@@ -169,7 +169,7 @@ dnsrecon -d portswigger.net
 
 **Evidence:** DNS records and discovered information
 
-![DNSRecon Screenshot](dnsrecon.png)
+![DNSRecon Screenshot](IMG_6642.png)
 
 ---
 
