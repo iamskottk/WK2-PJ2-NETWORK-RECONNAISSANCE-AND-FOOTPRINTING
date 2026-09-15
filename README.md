@@ -60,7 +60,7 @@ nmap -sn 192.168.178.175/24
 > **Objective:** Identify live hosts on the target network.
 
 Evidence:
-![Network Configuration](screenshots/network-config.png)
+![Network Configuration](command.PNG)
 
 ### 4.2 Network Scanning with Zenmap
 
