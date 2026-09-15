@@ -211,7 +211,7 @@ whois portswigger.net
 
 **Evidence:** Domain registration and WHOIS information
 
-![WHOIS Screenshot](whois.png)
+![WHOIS Screenshot](IMG_6641.png)
 
 ---
 
