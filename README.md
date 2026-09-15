@@ -1,8 +1,8 @@
 # 🔎 PENETRATING TEST REPORT 
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
-![Nmap](https://img.shields.io/badge/Tool-Nmap-red)
-![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-black)
+![Nmap](https://img.shields.io/badge/Tool-Zenmap-red)
+![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Network Scanning & Host Discovery
