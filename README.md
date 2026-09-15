@@ -87,7 +87,7 @@ Zenmap was used to identify **IP and MAC addresses** of discovered hosts, provid
 
 **📸 Evidence — IP & MAC Address Discovery**
 
-![IP and MAC Addresses](screenshots/ip-mac-addresses.png)
+![IP and MAC Addresses](mac.PNG)
 
 ### 4.4 Network Topology
 
